@@ -1,0 +1,1 @@
+An Object Counter is a computer vision application that counts the number of objects in an image or video feed. Using machine learning and image processing techniques, it identifies objects and tracks them as they appear and move, providing a real-time count. Object counting is useful in areas like traffic monitoring, inventory management, and crowd analysis.
